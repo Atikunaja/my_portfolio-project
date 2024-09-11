@@ -1,4 +1,4 @@
-s is my portfolio project I made using on E-Commerce using HTMl CSS PHP JAVASCRIPT.
+I made this portfolio project on E-Commerce website using HTMl CSS PHP JAVASCRIPT.
 
 YOU CAN CLONE INTO THE REPOSITORY USING 
 https://github.com/Atikunaja/my_portfolio-project.git
