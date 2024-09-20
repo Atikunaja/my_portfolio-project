@@ -1,0 +1,63 @@
+body{
+  font: 15px;
+  padding:5px;
+  margin:auto;
+  bgcolor:none;
+  alink:Teal;
+  link:red;
+  color:Teal;
+  }
+   href:link {color: red} 
+  
+}
+
+/* Global */
+.container{
+  width:1000px%;
+  margin:auto;
+  overflow:hidden;
+  background-color:;
+  font-family:Arial,Algerian;
+  font-size:30;
+  
+}
+
+header{
+  float:none;
+  color:Teal;
+  font-size:22pt;  
+  width:800px;
+  background-color:none;
+}
+
+footer{
+  color:#ffffff;
+  background-color:Teal;
+  text-align:center;
+  margin:auto;
+}
+
+#navigation{
+    bgcolor:white;
+    color:Teal;
+}
+/*contact us*/
+form{
+    background:none;
+  color:Teal;
+  padding-top:50px;
+  min-height:50px;  
+  font-size:20pt;
+}
+
+ul{
+    alink:Teal;
+}
+
+table{
+    h3:15pt;
+}
+
+ a:link{
+  color:purple;
+  } 

@@ -1,0 +1,46 @@
+<html>
+<head><title>Contact Us</title>
+<link rel = "stylesheet" type="text/css" href="css/style.css"></head>
+<link rel="index.html">
+<link rel="About Us.html">
+<link rel="Products.html">
+<link rel="Contact Us.html">
+<body> 
+    <div align="center">
+        <form action="mailto:najaatiku1@gmail.com" method="post"></form>
+    </div>
+    <header align="center">
+<div id="header">
+<P><h1><i><b>NAU Snacks</b></i></h1></p>
+<h2><i>PORTFOLIO PROJECT HOLBERTON SCHOOL</i></h2>
+
+<div id="navigation">
+<a href="index.html">HOMEPAGE</a>&nbsp;|&nbsp;
+<a href="Products.html">PRODUCTS </a>&nbsp;|&nbsp;
+<a href="About Us.html">ABOUT US</a>&nbsp;|&nbsp;
+<a href="Contact Us.html">CONTACT US </a>
+</div>
+
+</div>
+<br />
+<form method="post" action="confirm.php">
+<p>First Name: <input type="text" name="first_name" size="30" placeholder="Enter First Name" color="black" required/></p><br/>
+<p>Last Name: <input type="text" name="last_name" size="30" placeholder="Enter Last Name" color="black" required/></p><br/>
+<p>DOB(YYYY-MM-DD): <input type="text" name="birthday" size="15" color="black" required/></p><br/>
+<p>Phone Number:<input type="text" name="phone_number" size="15" placeholder="Phone Number" color="black" required/></p><br/>
+<p>Address:<textarea name="address" rows="6" cols="32" placeholder="Enter Your Address"></textarea></p><br/>
+<p>Email: <input type="text" name="email" size="50" placeholder="Enter Your Email Address" color="black" required/></p><br/>
+<p>Comments:<textarea name="comments" rows="6" cols="40" placeholder="Write Your Comments"></textarea></p><br/>
+<p><input type="submit" name="submit" value="Save contact" size="20pt" />
+<input type="reset" name="reset" size="20pt" value="Clear contact" /></p><br/>
+</form>
+</div>
+</center>
+
+    <footer>
+      <p><h3>Naja'atu portfolio project, Copyright; 2024</h3></p>
+    </footer>
+    
+</body>
+</html>
+
