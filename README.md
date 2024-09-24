@@ -14,6 +14,8 @@ css
 javascript
 php
 
+https://github.com/Atikunaja/my_portfolio-project/blob/15f8a205871c4ef812491bef78d254a9a4614617/Architecture.jpg
+
 FEATURES
 The major features of the website are:
 Homepage
