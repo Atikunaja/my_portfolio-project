@@ -16,6 +16,9 @@ php
 
 https://github.com/Atikunaja/my_portfolio-project/blob/15f8a205871c4ef812491bef78d254a9a4614617/Architecture.jpg
 
+![image](https://github.com/user-attachments/assets/f01c3b71-4c2f-4199-9afd-8cdb2269f5a8)
+
+
 FEATURES
 The major features of the website are:
 Homepage
