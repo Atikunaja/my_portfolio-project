@@ -19,6 +19,8 @@ SAMPLE OF THE SNACKS
 
 ![image](https://github.com/user-attachments/assets/f01c3b71-4c2f-4199-9afd-8cdb2269f5a8)
 
+![Uploading image.png…]()
+
 
 FEATURES
 The major features of the website are:
