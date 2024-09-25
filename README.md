@@ -17,9 +17,8 @@ mysql
 SAMPLE OF THE SNACKS
 ![image](https://github.com/user-attachments/assets/66b66727-3333-4f55-a5fc-f7234d9f0741)
 
-![image](https://github.com/user-attachments/assets/f01c3b71-4c2f-4199-9afd-8cdb2269f5a8)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/2b702643-daf7-4518-85c6-4c063ed38dd4)
 
 
 FEATURES
