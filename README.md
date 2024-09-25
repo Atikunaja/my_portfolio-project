@@ -20,15 +20,9 @@ SAMPLE OF THE SNACKS
 
 ![image](https://github.com/user-attachments/assets/2b702643-daf7-4518-85c6-4c063ed38dd4)
 
+PROJECTS ARCHITECTURE(Data flow)
 
-FEATURES
-The major features of the website are:
-Homepage
-Gallery
-About us
-Contact us
-login
-signup
+
 
 
 LINK TO THE PROJECT DEMO
