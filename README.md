@@ -22,6 +22,7 @@ SAMPLE OF THE SNACKS
 
 PROJECTS ARCHITECTURE(Data flow)
 
+![image](https://github.com/user-attachments/assets/e9849ff7-8ebe-42fc-a77c-d0231ca69157)
 
 
 
