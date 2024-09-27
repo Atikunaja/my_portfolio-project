@@ -1,0 +1,25 @@
+<!Doctype html>
+<html>
+    <head>
+        <title>Signin form</title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+    </head>
+    <body>
+        <div class="Sign in form">
+            <h1>Sign in</h1>
+            <form action="login.html" method="post">
+                <p>First Name:</p>
+                <input type="text" name="First name" placeholder="First Name" required>
+                <p>Last Name:</p>
+                <input type="text" name="Last Name" placeholder="Last Name" required>
+                <p>Phone number:</p>
+                <input type="text" name="Phone number" placeholder="Phone number" required>
+                <p>Email:</p>
+                <input type="text" name="Email" placeholder="Email" required>
+                <p>Password:</p>
+                <input type="text" name="Password" placeholder="Password" required><br/><br/>
+                <button type="Submit">Sign in</button>
+            </form>
+        </div>
+    </body>
+</html>

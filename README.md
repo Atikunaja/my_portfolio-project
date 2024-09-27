@@ -4,8 +4,10 @@ INSPIRATION
 Snacks Business is a profitable business in Nigeria that doesn’t need huge amount of money for startup which laid too many competitors in the market. High rate of inflation In Nigeria made it hard for business owners to find customers, because there is too much competition in the market and limited customers, regular customers buy on credits which cripple most entreneurs.
 	These reasons made me think of upgrading my business as well as expanding my customers through designing an e-commerce website that can help me reach many customers and advertise my products at ease and eliminate buying goods on credit.
 
-YOU CAN CLONE INTO THE REPOSITORY USING 
-https://github.com/Atikunaja/my_portfolio-project.git
+INSTALLATION
+1. Clone the repository: https://github.com/Atikunaja/my_portfolio-project.git
+2.Navigate into the index.html file in the root directory, or index.html file in the html folder
+3.Double click or open in any browser to launch the website
 
 TECHNOLOGIES
 html5
