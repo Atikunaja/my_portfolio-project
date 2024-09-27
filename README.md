@@ -27,6 +27,9 @@ PROJECTS ARCHITECTURE(Data flow)
 ![image](https://github.com/user-attachments/assets/e9849ff7-8ebe-42fc-a77c-d0231ca69157)
 
 
+![image](https://github.com/user-attachments/assets/f2ccc617-0e4f-4636-9574-f9cf1386d0e6)
+
+
 
 LINK TO THE PROJECT DEMO
 http://localhost:8080/portfolio%20project/audio/Demo1.mp4
